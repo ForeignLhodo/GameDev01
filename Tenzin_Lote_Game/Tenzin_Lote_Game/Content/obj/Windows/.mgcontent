@@ -4,11 +4,13 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/Tile1.png</File>
-    <File>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/Tile2.png</File>
-    <File>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_run.png</File>
-    <File>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_idle.png</File>
-    <File>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_idle(left).png</File>
-    <File>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_run(left).png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/Tile1.png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/Tile2.png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_run.png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_idle.png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_idle(left).png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_run(left).png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_bullet.png</File>
+    <File>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/grunt_idle.png</File>
   </SourceFiles>
 </SourceFileCollection>

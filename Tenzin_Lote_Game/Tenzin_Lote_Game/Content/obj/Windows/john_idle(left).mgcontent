@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_idle(left).png</SourceFile>
+  <SourceFile>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/john_idle(left).png</SourceFile>
   <SourceTime>2019-09-02T20:57:11.7642259+02:00</SourceTime>
-  <DestFile>C:/Users/tenzin/source/repos/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/bin/Windows/john_idle(left).xnb</DestFile>
-  <DestTime>2019-09-02T21:08:44.1403743+02:00</DestTime>
+  <DestFile>C:/Users/tenzin/Desktop/GameDev01/Tenzin_Lote_Game/Tenzin_Lote_Game/Content/bin/Windows/john_idle(left).xnb</DestFile>
+  <DestTime>2019-09-03T13:06:16.9493811+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,4 +1,5 @@
 ﻿using System;
+using Tenzin_Lote_Game.Character;
 
 namespace Tenzin_Lote_Game
 {

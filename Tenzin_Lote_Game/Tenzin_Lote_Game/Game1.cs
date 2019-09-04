@@ -2,8 +2,9 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
+using Tenzin_Lote_Game.Weapons;
 
-namespace Tenzin_Lote_Game
+namespace Tenzin_Lote_Game.Character
 {
     /// <summary>
     /// This is the main type for your game.
@@ -12,11 +13,12 @@ namespace Tenzin_Lote_Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        List<Texture2D> HeroTexture = new List<Texture2D>();
+        Texture2D idle, bullet,gruntidle;
         Map map;
-        Player player;
+        Character player,enemy;
+        
         Camera camera;
-        bool Lastpressed;
+        
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -45,27 +47,16 @@ namespace Tenzin_Lote_Game
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            HeroTexture.Add(Content.Load<Texture2D>("john_idle"));
-            HeroTexture.Add(Content.Load<Texture2D>("john_run"));
-            HeroTexture.Add(Content.Load<Texture2D>("john_idle(left)"));
-            HeroTexture.Add(Content.Load<Texture2D>("john_run(left)"));
-            
-            player = new Player(HeroTexture[0]);
+
+            idle = Content.Load<Texture2D>("john_idle");
+            bullet = Content.Load<Texture2D>("john_bullet");
+            player = new Player(idle,bullet);
+            player.Load(Content);
+            gruntidle = Content.Load<Texture2D>("grunt_idle");
+            enemy = new Enemy(gruntidle);
             Tiles.Content = Content;
             camera = new Camera(GraphicsDevice.Viewport);
-            map.Generate(new int[,]
-            {
-                {1,0,0,0,0,0,0,0,0,0  ,0,0,0,0,0,0,0,0,0,0,0,0 },
-                {2,0,0,0,0,0,0,0,0,0  ,0,0,0,0,0,0,0,0,0,0,1,1 },
-                {2,1,0,0,0,0,0,0,0,0  ,0,0,1,1,1,0,0,0,1,1,2,2 },
-                {2,2,1,1,1,0,0,0,0,1  ,1,1,2,2,2,1,0,0,0,0,2,2 },
-
-                {2,2,0,0,0,0,0,0,1,2  ,2,2,2,2,2,2,1,0,0,0,2,2 },
-                {2,0,0,0,0,0,1,1,2,2  ,2,2,2,2,2,2,2,1,1,1,2,2 },
-                {2,0,0,0,1,1,2,2,2,2  ,2,2,2,2,2,2,2,2,2,2,2,2 },
-                {2,1,1,1,2,2,2,2,2,2  ,2,2,2,2,2,2,2,2,2,2,2,2 },
-
-            }, 64);
+            map.GenerateWorld1();
             
             // TODO: use this.Content to load your game content here
         }
@@ -92,31 +83,15 @@ namespace Tenzin_Lote_Game
             // TODO: Add your update logic here
            
             
-            if (player.buttons.Right )
-            {
-                player.texture = HeroTexture[1];
-                Lastpressed = true;
-            }
-            else if(player.buttons.Left)
-            {
-                player.texture = HeroTexture[3];
-                Lastpressed = false;
-            }
-            else if (!player.buttons.Right && !player.buttons.Left && Lastpressed)
-            {
-                player.texture = HeroTexture[0];
-            }
-            else if (!player.buttons.Right && !player.buttons.Left && !Lastpressed)
-            {
-                player.texture = HeroTexture[2];
-            }
+           
             player.Update(gameTime);
+            enemy.Update(gameTime);
             foreach (CollisionTiles tile in map.CollisionTiles)
             {
                 player.Collision(tile.Rectangle, map.Width, map.Height);
+                
                 camera.Update(player.Postition, map.Width, map.Height);
             }
-            
             base.Update(gameTime);
         }
 
@@ -132,6 +107,7 @@ namespace Tenzin_Lote_Game
             spriteBatch.Begin(SpriteSortMode.Deferred,BlendState.AlphaBlend,null,null,null,null,camera.Transform);
             map.Draw(spriteBatch);
             player.Draw(spriteBatch);
+            enemy.Draw(spriteBatch);
             spriteBatch.End();
             base.Draw(gameTime);
         }
