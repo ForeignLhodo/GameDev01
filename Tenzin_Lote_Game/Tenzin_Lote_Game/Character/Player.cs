@@ -21,6 +21,7 @@ namespace Tenzin_Lote_Game.Character
             texture = _texture;
             bulletTexture = newBulletTexure;
             buttons = new ControllerArrows();
+            healthPosition = new Vector2(position.X, position.Y-20);
             
             int pixelwidth = 0;
             FiveFramesAnimation = new Animation();
@@ -43,7 +44,8 @@ namespace Tenzin_Lote_Game.Character
             {
                 if (bullet.BulletRectangle.Intersects(newRectangle))
                 {
-                    Console.WriteLine("raaak");
+                    bullet.isVisible = false;
+
                 }
             }
             
@@ -75,8 +77,8 @@ namespace Tenzin_Lote_Game.Character
            
             Bullets newBullet = new Bullets(bulletTexture);
             if (playerTurnRight)
-                newBullet.velocity.X = velocity.X + 3f;
-            else newBullet.velocity.X = -(velocity.X + 3f);
+                newBullet.velocity.X = velocity.X + 6f;
+            else newBullet.velocity.X = -(velocity.X + 6f);
 
             newBullet.position = new Vector2(position.X + newBullet.velocity.X, position.Y + (texture.Height / 2) - (bulletTexture.Height / 2));
             newBullet.isVisible = true;
@@ -91,11 +93,13 @@ namespace Tenzin_Lote_Game.Character
             CharacterTexture.Add(Content.Load<Texture2D>("john_run"));
             CharacterTexture.Add(Content.Load<Texture2D>("john_idle(left)"));
             CharacterTexture.Add(Content.Load<Texture2D>("john_run(left)"));
+            healthTexture = Content.Load<Texture2D>("greenbar (1)");
+            healthRectangle = new Rectangle(0, 0, healthTexture.Width, healthTexture.Height);
         }
 
 
         float shoot = 0;
-        public override void Update(GameTime gameTime, List<Character> characters)
+        public override void Update(GameTime gameTime)
         {
             position += velocity;
             rectangle = new Rectangle((int)position.X, (int)position.Y, 75, 64);
@@ -111,13 +115,15 @@ namespace Tenzin_Lote_Game.Character
             animation.Update(gameTime);
             AnimationRichting();
             Input(gameTime);
-            
+
+            healthPosition.Y = position.Y - 30;
+            healthPosition.X = position.X -20;
 
             if (velocity.Y <10)
                 velocity.Y += 0.4f;
 
             shoot += (float)gameTime.ElapsedGameTime.TotalSeconds;
-            if (shoot>1)
+            if (shoot>0.3)
             {
                 shoot = 0;
                 ShootBullets();
@@ -173,8 +179,10 @@ namespace Tenzin_Lote_Game.Character
                 velocity.Y = 0f;
                 hasJumped = false;
             }
+
             if (rectangle.TouchLeftOf(newRectangle))
                 position.X = newRectangle.X - rectangle.Width - 2;
+                
             if (rectangle.TouchRightOf(newRectangle))
                 position.X = newRectangle.X + rectangle.Width + 2;
             if (rectangle.TouchBottomOf(newRectangle))
@@ -185,7 +193,7 @@ namespace Tenzin_Lote_Game.Character
             if (position.Y < 0) velocity.Y = 1f;
             if (position.Y > yOffset - rectangle.Height) position.Y = yOffset - rectangle.Height;
 
-            
+            BulletCollision(newRectangle);
         }
 
         public override void Draw(SpriteBatch spriteBatch)
@@ -193,8 +201,24 @@ namespace Tenzin_Lote_Game.Character
             foreach (Bullets bullet in bullets)
                 bullet.Draw(spriteBatch);
             spriteBatch.Draw(texture, rectangle, animation.CurrentFrame.SourceRectangle, Color.AliceBlue);
+            spriteBatch.Draw(healthTexture, healthPosition, healthRectangle, Color.White);
         }
 
-        
+        public override int DamageTaken()
+        {
+            if (HealthPoint<=0)
+            {
+                Console.WriteLine("Hero is dood");
+                HealthPoint = 0;
+            }
+            else if (HealthPoint > 100)
+            {
+                HealthPoint = 100;
+            }
+            healthRectangle.Width -= 1;
+            return HealthPoint = healthRectangle.Width;
+        }
+
+     
     }
 }

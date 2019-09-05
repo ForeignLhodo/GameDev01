@@ -62,3 +62,9 @@ C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\obj\x86\Debu
 C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\obj\x86\Debug\Tenzin_Lote_Game.pdb
 C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\john_bullet.xnb
 C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\grunt_idle.xnb
+C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\grunt_death.xnb
+C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\grunt_run(left).xnb
+C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\grunt_run.xnb
+C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\grunt_idle(left).xnb
+C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\greenbar (1).xnb
+C:\Users\tenzin\Desktop\GameDev01\Tenzin_Lote_Game\Tenzin_Lote_Game\bin\Windows\x86\Debug\Content\greenbar (5).xnb

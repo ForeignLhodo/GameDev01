@@ -13,11 +13,12 @@ namespace Tenzin_Lote_Game.Character
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        Texture2D idle, bullet,gruntidle;
+        Texture2D idle, bullet, gruntidle,health;
         Map map;
-        Character player,enemy;
-        
+        Character player;
+        List<Character> enemy = new List<Character>();
         Camera camera;
+        
         
         public Game1()
         {
@@ -46,14 +47,20 @@ namespace Tenzin_Lote_Game.Character
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
+           // health = Content.Load<Texture2D>("greenbar(1)");
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
             idle = Content.Load<Texture2D>("john_idle");
             bullet = Content.Load<Texture2D>("john_bullet");
             player = new Player(idle,bullet);
             player.Load(Content);
-            gruntidle = Content.Load<Texture2D>("grunt_idle");
-            enemy = new Enemy(gruntidle);
+            gruntidle = Content.Load<Texture2D>("grunt_run");
+            enemy.Add(new Enemy(gruntidle, new Vector2(80, 390),1));
+            enemy.Add(new Enemy(gruntidle, new Vector2(200, 132),2));
+            enemy.Add(new Enemy(gruntidle, new Vector2(300, 132), 3));
+            foreach (Enemy enemy in enemy)
+            {
+                enemy.Load(Content);
+            }
             Tiles.Content = Content;
             camera = new Camera(GraphicsDevice.Viewport);
             map.GenerateWorld1();
@@ -81,17 +88,44 @@ namespace Tenzin_Lote_Game.Character
                 Exit();
 
             // TODO: Add your update logic here
-           
-            
+
+            if (Keyboard.GetState().IsKeyDown(Keys.B))
+            {
+               
+            } 
            
             player.Update(gameTime);
-            enemy.Update(gameTime);
-            foreach (CollisionTiles tile in map.CollisionTiles)
+            foreach (Enemy enemy in enemy)
             {
-                player.Collision(tile.Rectangle, map.Width, map.Height);
-                
-                camera.Update(player.Postition, map.Width, map.Height);
+                enemy.Update(gameTime);
+                if (enemy.rectangle.Intersects(player.rectangle))
+                {
+                    player.DamageTaken();
+                }
             }
+            foreach (CollisionTiles tile in map.CollisionTiles)
+            { 
+                player.Collision(tile.Rectangle, map.Width, map.Height);
+                foreach (Enemy enemy in enemy)
+                {
+                    enemy.Collision(tile.Rectangle, map.Width, map.Height);
+                }
+                camera.Update(player.Postition,  map.Width, map.Height);
+            }
+            
+            foreach (Bullets bullet  in player.bullets)
+            {
+                foreach (Enemy enemy in enemy)
+                {
+                    if (bullet.BulletRectangle.Intersects(enemy.rectangle))
+                    {
+                        enemy.DamageTaken();
+                        bullet.isVisible = false;
+                    }
+                    
+                }
+            }
+            
             base.Update(gameTime);
         }
 
@@ -102,12 +136,19 @@ namespace Tenzin_Lote_Game.Character
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+            
 
             // TODO: Add your drawing code here
             spriteBatch.Begin(SpriteSortMode.Deferred,BlendState.AlphaBlend,null,null,null,null,camera.Transform);
+            
             map.Draw(spriteBatch);
             player.Draw(spriteBatch);
-            enemy.Draw(spriteBatch);
+            
+            foreach (Enemy enemy in enemy)
+            {
+                enemy.Draw(spriteBatch);
+            }
+            
             spriteBatch.End();
             base.Draw(gameTime);
         }

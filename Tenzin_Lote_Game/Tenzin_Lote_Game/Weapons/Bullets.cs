@@ -17,7 +17,6 @@ namespace Tenzin_Lote_Game.Weapons
         public Vector2 velocity;
         public Rectangle BulletRectangle;
         public bool isVisible;
-        public Player player1;
 
         public Bullets(Texture2D newTexture)
         {
@@ -38,6 +37,9 @@ namespace Tenzin_Lote_Game.Weapons
         {
             Animation = FiveFramesAnimation;
             Animation.Update(gameTime);
+            BulletRectangle.X =(int) position.X;
+            BulletRectangle.Y =(int) position.Y;
+
         }
         public void Draw(SpriteBatch spriteBatch)
         {
