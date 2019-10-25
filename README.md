@@ -8,5 +8,5 @@ Springen,
 Collosion detection,
 Dood scene,
 Animatie,
-Vijhanden,
-Levels,
+Vijhanden en 
+Levels
