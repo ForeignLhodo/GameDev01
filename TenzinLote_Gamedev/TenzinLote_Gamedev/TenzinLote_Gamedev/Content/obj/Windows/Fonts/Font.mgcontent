@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/Fonts/Font.spritefont</SourceFile>
+  <SourceTime>2019-08-14T16:02:10+02:00</SourceTime>
+  <DestFile>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/bin/Windows/Fonts/Font.xnb</DestFile>
+  <DestTime>2019-10-25T14:54:55.716618+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

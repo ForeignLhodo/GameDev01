@@ -1,0 +1,135 @@
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\greenbar (1).xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\greenbar (5).xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_death.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_idle(left).xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_idle.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_run(left).xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_run.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_bullet.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_idle(left).xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_idle.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_run(left).xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_run.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\TenzinLote_Gamedev.exe
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\TenzinLote_Gamedev.pdb
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csprojAssemblyReference.cache
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csproj.CoreCompileInputs.cache
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csproj.CopyComplete
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.exe
+C:\Users\tenzin\Desktop\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.pdb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Controls\Button.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\greenbar (1).xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\greenbar (5).xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_death.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_idle(left).xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_idle.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_run(left).xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_run.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_bullet.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_idle(left).xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_idle.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_run(left).xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_run.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\TenzinLote_Gamedev.exe
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\TenzinLote_Gamedev.pdb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csprojAssemblyReference.cache
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csproj.CoreCompileInputs.cache
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csproj.CopyComplete
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.exe
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.pdb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\title_screen.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\StartButton.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\GameOverScreen-still.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\RestartButton.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Level1Logo.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\CreditsScreen.xnb
+C:\Users\tenzin\Desktop\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\backGround.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Controls\Button.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\backGround.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\CreditsScreen.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\GameOverScreen-still.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\greenbar (1).xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\greenbar (5).xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_death.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_idle(left).xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_idle.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_run(left).xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\grunt_run.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_bullet.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_idle(left).xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_idle.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_run(left).xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\john_run.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Level1Logo.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\RestartButton.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\StartButton.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\Content\title_screen.xnb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\TenzinLote_Gamedev.exe
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\TenzinLote_Gamedev.pdb
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csprojAssemblyReference.cache
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csproj.CoreCompileInputs.cache
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.csproj.CopyComplete
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.exe
+C:\Users\tenzin\Desktop\school\semester 4\GameDev01\TenzinLote_Gamedev\TenzinLote_Gamedev\TenzinLote_Gamedev\obj\x86\Debug\TenzinLote_Gamedev.pdb

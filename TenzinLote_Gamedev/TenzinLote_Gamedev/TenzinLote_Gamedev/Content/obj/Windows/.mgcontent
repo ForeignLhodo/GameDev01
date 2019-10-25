@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/greenbar (5).png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/grunt_death.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/grunt_idle(left).png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/grunt_idle.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/grunt_run(left).png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/grunt_run.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/john_bullet.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/john_idle(left).png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/john_idle.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/john_run(left).png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/john_run.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/Tile1.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/Tile2.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/greenbar (1).png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/Controls/Button.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/title_screen.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/StartButton.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/GameOverScreen-still.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/RestartButton.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/Level1Logo.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/CreditsScreen.png</File>
+    <File>C:/Users/tenzin/Desktop/school/semester 4/GameDev01/TenzinLote_Gamedev/TenzinLote_Gamedev/TenzinLote_Gamedev/Content/backGround.png</File>
+  </SourceFiles>
+</SourceFileCollection>
